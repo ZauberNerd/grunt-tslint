@@ -27,7 +27,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "tslint": "1.0.0"
+    "tslint": "git://github.com/ZauberNerd/tslint.git#2854e9988953039b3e34184f95a4cc1fd69c10b3"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",
